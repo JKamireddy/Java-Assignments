@@ -1,8 +1,8 @@
 /**********************************************************
  *                                                        *
- *  CSCI-502       Assignment 4       FALL 2018           *
+ *       Assignment 4       FALL 2018           *
  *                                                        *
- *  NAME: SAHITHI KAMIREDDY                               *
+ *                              *
  *                                                        *
  *  Due Date/Time:  10/12/2018                            *
  *  Purpose:  Enhancing the given  Program                        *
